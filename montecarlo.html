@@ -41,9 +41,18 @@
 										<li><a href="https://github.com/BhorisDhanjal/MonteCarloMathsConstants" class="button">Github Repo</a></li>
 									</ul>
 									<hr>
-									<div align="center">
-					  				<iframe src="https://drive.google.com/file/d/1GGnRuM2pR7sADgDvKUrQu7xe4pTE-W6P/preview" width=50% height="640" allow="autoplay"></iframe>
-									</div>
+									<div align="center", id="adobe-dc-view" style="height: 600px; width: 100%;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){
+		var adobeDCView = new AdobeDC.View({clientId: "294c93a416a840ae88cea0a865853594", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "pdfs/Monte_Carlo_Project.pdf"}},
+			metaData:{fileName: "Calculating mathematical constants with Monte Carlo simulations"}
+		}, {embedMode: "SIZED_CONTAINER"});
+	});
+</script>
+						</div>
 									<hr>
 								</section>
 
