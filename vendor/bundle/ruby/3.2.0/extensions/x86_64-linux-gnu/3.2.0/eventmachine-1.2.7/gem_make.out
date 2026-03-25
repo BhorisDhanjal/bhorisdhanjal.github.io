@@ -1,0 +1,19 @@
+current directory: /home/bhoris/Documents/GitHub/bhorisdhanjal.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/bhoris/Documents/GitHub/bhorisdhanjal.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260324-13878-mroxvw sitelibdir\=./.gem.20260324-13878-mroxvw clean
+
+current directory: /home/bhoris/Documents/GitHub/bhorisdhanjal.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260324-13878-mroxvw sitelibdir\=./.gem.20260324-13878-mroxvw
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/bhoris/Documents/GitHub/bhorisdhanjal.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260324-13878-mroxvw sitelibdir\=./.gem.20260324-13878-mroxvw install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260324-13878-mroxvw
+
+current directory: /home/bhoris/Documents/GitHub/bhorisdhanjal.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260324-13878-mroxvw sitelibdir\=./.gem.20260324-13878-mroxvw clean

@@ -1,0 +1,44 @@
+title: Bhoris Dhanjal
+navbar_title: Bhoris Dhanjal
+
+author:
+  name: Bhoris Dhanjal
+  email: dhanjalboris@gmail.com
+
+description: PhD Student at ICTS-TIFR | Mathematics &amp; Academic Portfolio and Blog
+
+url: "https://bhorisdhanjal.github.io"
+baseurl: ""
+
+jekyllacademic:
+  homepage_title: "Bhoris Dhanjal - PhD Student"
+  disqusname: "" 
+  footer: "Bhoris Dhanjal, 2026"
+  contentlicense: "MIT"
+  socials:
+    github: BhorisDhanjal
+    # Add more socials here as needed: twitter, linkedin, etc.
+
+# No need to edit this part, however if you want to, that's fine as well
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /:collection/:title
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
