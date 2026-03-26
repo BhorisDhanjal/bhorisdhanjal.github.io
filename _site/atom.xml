@@ -4,7 +4,7 @@
  <title>Bhoris Dhanjal</title>
  <link href="https://bhorisdhanjal.github.io/atom.xml" rel="self"/>
  <link href="https://bhorisdhanjal.github.io/"/>
- <updated>2026-03-25T21:32:32+05:30</updated>
+ <updated>2026-03-26T09:46:13+05:30</updated>
  <id>https://bhorisdhanjal.github.io</id>
  <author>
    <name>Bhoris Dhanjal</name>
@@ -14,76 +14,16 @@
  
  <entry>
    <title>Heller&apos;s Simple Proof of the Künneth Theorem</title>
-   <link href="https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof-md"/>
-   <updated>2026-03-24T00:00:00+05:30</updated>
-   <id>https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof.md</id>
-   <content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot; async&gt;&lt;/script&gt;
-&lt;script&gt;
-MathJax = {
-  tex: {
-    inlineMath: [[&apos;\\(&apos;, &apos;\\)&apos;]],
-    displayMath: [[&apos;$$&apos;, &apos;$$&apos;]],
-    macros: {
-      Z: &apos;\\mathbb{Z}&apos;,
-      Q: &apos;\\mathbb{Q}&apos;,
-      F: &apos;\\mathbb{F}&apos;,
-      Hom: &apos;\\mathrm{Hom}&apos;,
-      Tor: &apos;\\mathrm{Tor}&apos;,
-      Ext: &apos;\\mathrm{Ext}&apos;,
-      im: &apos;\\mathrm{im}&apos;,
-      coker: &apos;\\mathrm{coker}&apos;,
-      pd: &apos;\\mathrm{pd}&apos;,
-      Ab: &apos;\\mathbf{Ab}&apos;
-    }
-  }
-};
-&lt;/script&gt;
-
-# Heller&apos;s Simple Proof of the Künneth Theorem
-
-We work first in \( \Ab = \Z \)-Mod. The target is the Künneth exact sequence
-
-\[ 0 \to H(C)\otimes H(D) \to H(C\otimes D) \to \Tor_1^{\Z}(H(C),H(D)) \to 0 \]
-
-**Paste the full proof from your .tex file below this line.**
-
-(Use $$ for display math. The macros above should make \Tor, \Z, \Ab, etc. work.)
-
-</content>
- </entry>
- 
- <entry>
-   <title>Heller&apos;s Simple Proof of the Künneth Theorem</title>
    <link href="https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof"/>
    <updated>2026-03-24T00:00:00+05:30</updated>
    <id>https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof</id>
-   <content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;
-MathJax = {
-  tex: {
-    inlineMath: [[&apos;\\(&apos;, &apos;\\)&apos;]],
-    displayMath: [[&apos;$$&apos;, &apos;$$&apos;]],
-    macros: {
-      Z: &apos;\\mathbb{Z}&apos;,
-      Tor: &apos;\\mathrm{Tor}&apos;,
-      Ext: &apos;\\mathrm{Ext}&apos;,
-      Ab: &apos;\\mathbf{Ab}&apos;,
-      Hom: &apos;\\mathrm{Hom}&apos;,
-      im: &apos;\\mathrm{im}&apos;,
-      coker: &apos;\\mathrm{coker}&apos;
-    }
-  }
-};
-&lt;/script&gt;
-
-&lt;h1 id=&quot;hellers-simple-proof-of-the-künneth-theorem&quot;&gt;Heller’s Simple Proof of the Künneth Theorem&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;hellers-simple-proof-of-the-künneth-theorem&quot;&gt;Heller’s Simple Proof of the Künneth Theorem&lt;/h1&gt;
 
 &lt;p&gt;The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/images/heller-kunneth.pdf&quot;&gt;📄 Download Full Proof (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This avoids raw LaTeX rendering issues. The PDF contains the complete document exactly as you wrote it in the .tex file.&lt;/p&gt;
+&lt;p&gt;This avoids raw LaTeX rendering issues. The PDF contains the complete document.&lt;/p&gt;
 
 </content>
  </entry>

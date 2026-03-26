@@ -17,35 +17,11 @@
 "items": [
     
         {
-            "id": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof-md",
-            "title": "Heller's Simple Proof of the Künneth Theorem",
-            "summary": null,
-            "content_text": "# Heller's Simple Proof of the Künneth TheoremWe work first in \\( \\Ab = \\Z \\)-Mod. The target is the Künneth exact sequence\\[ 0 \\to H(C)\\otimes H(D) \\to H(C\\otimes D) \\to \\Tor_1^{\\Z}(H(C),H(D)) \\to 0 \\]**Paste the full proof from your .tex file below this line.**(Use $$ for display math. The macros above should make \\Tor, \\Z, \\Ab, etc. work.)",
-            "content_html": "<script src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\" async></script><script>MathJax = {  tex: {    inlineMath: [['\\\\(', '\\\\)']],    displayMath: [['$$', '$$']],    macros: {      Z: '\\\\mathbb{Z}',      Q: '\\\\mathbb{Q}',      F: '\\\\mathbb{F}',      Hom: '\\\\mathrm{Hom}',      Tor: '\\\\mathrm{Tor}',      Ext: '\\\\mathrm{Ext}',      im: '\\\\mathrm{im}',      coker: '\\\\mathrm{coker}',      pd: '\\\\mathrm{pd}',      Ab: '\\\\mathbf{Ab}'    }  }};</script># Heller's Simple Proof of the Künneth TheoremWe work first in \\( \\Ab = \\Z \\)-Mod. The target is the Künneth exact sequence\\[ 0 \\to H(C)\\otimes H(D) \\to H(C\\otimes D) \\to \\Tor_1^{\\Z}(H(C),H(D)) \\to 0 \\]**Paste the full proof from your .tex file below this line.**(Use $$ for display math. The macros above should make \\Tor, \\Z, \\Ab, etc. work.)",
-            "url": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof-md",
-            
-            
-            
-            "tags": ["algebraic-topology","homological-algebra"],
-            
-            "date_published": "2026-03-24T00:00:00+05:30",
-            "date_modified": "2026-03-24T00:00:00+05:30",
-            
-                "author":  {
-                "name": "Bhoris Dhanjal",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
             "id": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof",
             "title": "Heller's Simple Proof of the Künneth Theorem",
             "summary": null,
-            "content_text": "Heller’s Simple Proof of the Künneth TheoremThe full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:📄 Download Full Proof (PDF)This avoids raw LaTeX rendering issues. The PDF contains the complete document exactly as you wrote it in the .tex file.",
-            "content_html": "<script src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\" async=\"\"></script><script>MathJax = {  tex: {    inlineMath: [['\\\\(', '\\\\)']],    displayMath: [['$$', '$$']],    macros: {      Z: '\\\\mathbb{Z}',      Tor: '\\\\mathrm{Tor}',      Ext: '\\\\mathrm{Ext}',      Ab: '\\\\mathbf{Ab}',      Hom: '\\\\mathrm{Hom}',      im: '\\\\mathrm{im}',      coker: '\\\\mathrm{coker}'    }  }};</script><h1 id=\"hellers-simple-proof-of-the-künneth-theorem\">Heller’s Simple Proof of the Künneth Theorem</h1><p>The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:</p><p><strong><a href=\"/assets/images/heller-kunneth.pdf\">📄 Download Full Proof (PDF)</a></strong></p><p>This avoids raw LaTeX rendering issues. The PDF contains the complete document exactly as you wrote it in the .tex file.</p>",
+            "content_text": "Heller’s Simple Proof of the Künneth TheoremThe full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:📄 Download Full Proof (PDF)This avoids raw LaTeX rendering issues. The PDF contains the complete document.",
+            "content_html": "<h1 id=\"hellers-simple-proof-of-the-künneth-theorem\">Heller’s Simple Proof of the Künneth Theorem</h1><p>The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:</p><p><strong><a href=\"/assets/images/heller-kunneth.pdf\">📄 Download Full Proof (PDF)</a></strong></p><p>This avoids raw LaTeX rendering issues. The PDF contains the complete document.</p>",
             "url": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof",
             
             
