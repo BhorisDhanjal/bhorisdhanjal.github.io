@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Bhoris Dhanjal</title>
- <link href="https://bhorisdhanjal.github.io/atom.xml" rel="self"/>
- <link href="https://bhorisdhanjal.github.io/"/>
- <updated>2026-03-26T09:46:13+05:30</updated>
- <id>https://bhorisdhanjal.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2026-03-26T10:01:01+05:30</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Bhoris Dhanjal</name>
    <email>dhanjalboris@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Heller&apos;s Simple Proof of the Künneth Theorem</title>
-   <link href="https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof"/>
+   <link href="http://localhost:4000/2026/03/24/kunneth-proof"/>
    <updated>2026-03-24T00:00:00+05:30</updated>
-   <id>https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof</id>
+   <id>http://localhost:4000/2026/03/24/kunneth-proof</id>
    <content type="html">&lt;h1 id=&quot;hellers-simple-proof-of-the-künneth-theorem&quot;&gt;Heller’s Simple Proof of the Künneth Theorem&lt;/h1&gt;
 
 &lt;p&gt;The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:&lt;/p&gt;

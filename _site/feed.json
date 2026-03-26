@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Bhoris Dhanjal",
-    "home_page_url": "https://bhorisdhanjal.github.io/",
-    "feed_url": "https://bhorisdhanjal.github.io/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "PhD Student at ICTS-TIFR | Mathematics &amp; Academic Portfolio and Blog",
-    "icon": "https://bhorisdhanjal.github.io/apple-touch-icon.png",
-    "favicon": "https://bhorisdhanjal.github.io/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof",
+            "id": "http://localhost:4000/2026/03/24/kunneth-proof",
             "title": "Heller's Simple Proof of the Künneth Theorem",
             "summary": null,
             "content_text": "Heller’s Simple Proof of the Künneth TheoremThe full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:📄 Download Full Proof (PDF)This avoids raw LaTeX rendering issues. The PDF contains the complete document.",
             "content_html": "<h1 id=\"hellers-simple-proof-of-the-künneth-theorem\">Heller’s Simple Proof of the Künneth Theorem</h1><p>The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:</p><p><strong><a href=\"/assets/images/heller-kunneth.pdf\">📄 Download Full Proof (PDF)</a></strong></p><p>This avoids raw LaTeX rendering issues. The PDF contains the complete document.</p>",
-            "url": "https://bhorisdhanjal.github.io/2026/03/24/kunneth-proof",
+            "url": "http://localhost:4000/2026/03/24/kunneth-proof",
             
             
             
