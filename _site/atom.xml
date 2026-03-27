@@ -4,7 +4,7 @@
  <title>Bhoris Dhanjal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-03-26T10:01:01+05:30</updated>
+ <updated>2026-03-28T03:22:54+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Bhoris Dhanjal</name>
@@ -17,14 +17,7 @@
    <link href="http://localhost:4000/2026/03/24/kunneth-proof"/>
    <updated>2026-03-24T00:00:00+05:30</updated>
    <id>http://localhost:4000/2026/03/24/kunneth-proof</id>
-   <content type="html">&lt;h1 id=&quot;hellers-simple-proof-of-the-künneth-theorem&quot;&gt;Heller’s Simple Proof of the Künneth Theorem&lt;/h1&gt;
-
-&lt;p&gt;The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/images/heller-kunneth.pdf&quot;&gt;📄 Download Full Proof (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This avoids raw LaTeX rendering issues. The PDF contains the complete document.&lt;/p&gt;
-
+   <content type="html">&lt;p&gt;TODO&lt;/p&gt;
 </content>
  </entry>
  

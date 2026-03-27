@@ -7,6 +7,13 @@ title: Projects
 
 <p>See the rest on <a href="https://github.com/BhorisDhanjal" target="_blank">my GitHub</a>.</p>
 
+<h2>Kepler&#39;s Laws in Lean</h2>
+<p>A formalized proof of Keplers laws using comoment maps.</p>
+<p>
+  <a href="https://github.com/BhorisDhanjal/KeplersLawsLean" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
+  | <a href="https://bhorisdhanjal.github.io/KeplersLawsLean/blueprint/" target="_blank">Blueprint</a>
+</p>
+
 <h2>Math Cheat Sheets</h2>
 <p>A collection of Mathematics Cheat Sheets made in LaTeX.</p>
 <p><a href="https://github.com/BhorisDhanjal/MathCheatSheets"><i class="fab fa-github"></i> View on GitHub</a></p>

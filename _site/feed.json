@@ -20,8 +20,8 @@
             "id": "http://localhost:4000/2026/03/24/kunneth-proof",
             "title": "Heller's Simple Proof of the Künneth Theorem",
             "summary": null,
-            "content_text": "Heller’s Simple Proof of the Künneth TheoremThe full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:📄 Download Full Proof (PDF)This avoids raw LaTeX rendering issues. The PDF contains the complete document.",
-            "content_html": "<h1 id=\"hellers-simple-proof-of-the-künneth-theorem\">Heller’s Simple Proof of the Künneth Theorem</h1><p>The full proof with all sections, theorems, proofs, examples, and diagrams is available as a PDF:</p><p><strong><a href=\"/assets/images/heller-kunneth.pdf\">📄 Download Full Proof (PDF)</a></strong></p><p>This avoids raw LaTeX rendering issues. The PDF contains the complete document.</p>",
+            "content_text": "TODO",
+            "content_html": "<p>TODO</p>",
             "url": "http://localhost:4000/2026/03/24/kunneth-proof",
             
             

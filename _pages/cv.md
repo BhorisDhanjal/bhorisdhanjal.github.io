@@ -5,9 +5,7 @@ title: CV
 
 <h1>Curriculum Vitae</h1>
 
-<p>This is a placeholder for my CV. I will update this with detailed information soon.</p>
-
-<p>You can download my CV here (link to be added): <a href="#">CV.pdf</a></p>
+<p>I will update this page with my CV soon.</p>
 
 <p>Currently a PhD Student at ICTS-TIFR in Mathematics.</p>
 
